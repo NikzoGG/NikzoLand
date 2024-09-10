@@ -4,12 +4,6 @@ from console import gamestarted
 from movement import left_movement, right_movement, dibeliq_movement
 from game_rules import boundaries, boundaries2
 
-#To do
-#da se naprai enemitata da se dvijat(feature) - utre
-#start coding a platformer game where there are some enemies,different levels,use classes,and the player has to escape traps
-#and spikes and go through all the levels.Also add multiplayer(goal)
-#or make a multiplayer fighting game something like brawlhalla
-
 
 pygame.init()
 pygame.mixer.init()
